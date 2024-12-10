@@ -1,0 +1,11 @@
+{
+  "name": "shellock_ctf",
+  "version": "1.0.0",
+  "description": "Shellock_CTF is a web security-based Capture The Flag (CTF) project designed to enhance understanding of web vulnerabilities and security practices. The project utilizes Node.js and Express for the backend and includes various web security challenges across different topics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
